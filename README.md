@@ -1,1 +1,1 @@
-# Recovery Galaxy a10s
+# Recovery For Galaxy a10s
