@@ -1,1 +1,1 @@
-# Recovery For Galaxy Device.
+# Recovery For Android Device.
